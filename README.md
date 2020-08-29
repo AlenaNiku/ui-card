@@ -2,6 +2,9 @@
 
 ![ui-card](https://github.com/AlenaNiku/ui-card/blob/master/ui-card.gif)
 
+#### Check out my blog post 👉 &nbsp;  <a href="https://medium.com/@alenanikulina0/ui-card-design-blur-on-hover-with-pure-css-bc9262d7751d" target="_blank">UI-Card Design: Blur on Hover with pure CSS</a>
+#### Check it out live 👉 &nbsp; <a href="https://alenaniku.github.io/ui-card/" target="_blank">UI-Card Design</a>
+
 ## Installation
 ### Clone
 

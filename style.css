@@ -10,4 +10,15 @@ body {
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background-attachment: fixed;
+}
+
+.container {
+    position: relative;
+    width: 1150px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }

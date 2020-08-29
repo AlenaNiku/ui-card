@@ -35,6 +35,18 @@ body {
     transition: 0.5s;
 }
 
+/* ADDING BLUR ON HOVER of the whole container & making card visible */
+.container:hover .card {
+    filter: blur(20px);
+    transform: scale(0.9);
+    opacity: 0.5;
+}
+.container .card:hover {
+    filter: blur(0px);
+    transform: scale(1.1);
+    opacity: 1;
+}
+
 .container .card .circle {
     position: relative;
     width: 100%;

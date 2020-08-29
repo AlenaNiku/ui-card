@@ -72,3 +72,19 @@ body {
     text-decoration: none;
     margin-top: 20px;
 }
+
+.container .card:nth-child(1) .circle,
+.container .card:nth-child(1) .content a
+{
+    background: #00DDDD;
+}
+.container .card:nth-child(2) .circle,
+.container .card:nth-child(2) .content a
+{
+    background: #FF26FF;
+}
+.container .card:nth-child(3) .circle,
+.container .card:nth-child(3) .content a
+{
+    background: #006EDD;
+}

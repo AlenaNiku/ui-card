@@ -4,3 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
